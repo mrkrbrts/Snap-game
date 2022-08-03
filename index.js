@@ -1,1 +1,3 @@
-console.log("hello world")
+import {cards} from './cards.js';
+
+console.log(cards)
